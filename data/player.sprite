@@ -1,0 +1,6 @@
+{
+   "width": 2,
+   "height": 3,
+   "images": ["testanim-1.png", "testanim-2.png", "testanim-3.png", "testanim-4.png"],
+   "delays": [3, 3, 3, 3]
+}

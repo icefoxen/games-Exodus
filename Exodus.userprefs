@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Particles.cs" ctype="Workbench">
+    <Files>
+      <File FileName="Exodus.cs" Line="41" Column="4" />
+      <File FileName="TileMap.cs" Line="258" Column="14" />
+      <File FileName="Control.cs" Line="334" Column="1" />
+      <File FileName="Resource.cs" Line="195" Column="6" />
+      <File FileName="Level.cs" Line="24" Column="3" />
+      <File FileName="Misc.cs" Line="6" Column="19" />
+      <File FileName="GameObj.cs" Line="348" Column="40" />
+      <File FileName="Collision.cs" Line="48" Column="2" />
+      <File FileName="Particles.cs" Line="119" Column="3" />
+      <File FileName="GameState.cs" Line="97" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Exodus" expanded="True" selected="True">
+            <Node name="References" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>

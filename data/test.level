@@ -1,0 +1,19 @@
+{
+   "collisionMap": "testlevel-collide.png",
+   "tiles": [
+   {
+      "tilesheet": "tilesheet.png",
+      "tilesheetWidth": 32,
+      "tilesheetHeight": 32,
+      "data": "testlevel1.png",
+      "parallax": 0.5,
+   },
+   {
+      "tilesheet": "tilesheet.png",
+      "tilesheetWidth": 32,
+      "tilesheetHeight": 32,
+      "data": "testlevel2.png",
+      "parallax": 1.0,
+   },
+   ]
+}
